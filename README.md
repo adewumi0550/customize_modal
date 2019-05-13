@@ -1,1 +1,1 @@
-This is customize Modal Popup with Javscript & CSS from scrath 
+This is customize Modal Popup with Javscript & CSS snippet
